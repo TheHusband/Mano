@@ -1,0 +1,18 @@
+{
+  "cSpell.words": [
+    "anythingllm",
+    "Astra",
+    "Dockerized",
+    "Embeddable",
+    "hljs",
+    "Langchain",
+    "Milvus",
+    "Ollama",
+    "openai",
+    "Qdrant",
+    "vectordbs",
+    "Weaviate",
+    "Zilliz"
+  ],
+  "eslint.experimental.useFlatConfig": true
+}
